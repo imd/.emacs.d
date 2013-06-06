@@ -1,0 +1,12 @@
+
+File: dir	Node: Top	This is the top of the INFO tree
+
+* Menu:
+
+Emacs
+* SLIME: (slime).    Superior Lisp Interaction Mode for Emacs.
+
+Programming
+* ANSI Common Lisp: (ansicl).		Draft ANSI Common Lisp standard
+* SICP: (sicp). Structure and Interpretation of Computer Programs
+* PDP-10: (pdp-10). PDP-10 Machine Language.
