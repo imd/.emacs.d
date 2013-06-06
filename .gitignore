@@ -1,0 +1,14 @@
+.emacs.bmk
+.emacs.desktop
+.emacs.desktop.lock
+.org-id-locations
+Mail/
+News/
+auto-save-list
+games/
+history
+places
+session.*
+slime-history.eld
+tramp
+url/
